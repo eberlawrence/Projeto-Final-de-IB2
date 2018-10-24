@@ -1,0 +1,3 @@
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\bin\Debug\C_Sharp_Onscreenkeys.exe.config
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.exe
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.pdb

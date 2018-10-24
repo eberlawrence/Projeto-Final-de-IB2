@@ -1,0 +1,27 @@
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\bin\Debug\C_Sharp_Onscreenkeys.exe.config
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.exe
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.pdb
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\bin\Debug\C_Sharp_Onscreenkeys.exe
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\bin\Debug\C_Sharp_Onscreenkeys.pdb
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.csprojResolveAssemblyReference.cache
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.form_Principal.resources
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.Form_Config.resources
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.Properties.Resources.resources
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.menuConfig.resources
+C:\Users\Eber Lawrence\Google Drive\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.csproj.GenerateResource.Cache
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\bin\Debug\C_Sharp_Onscreenkeys.exe.config
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\bin\Debug\C_Sharp_Onscreenkeys.exe.manifest
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\bin\Debug\C_Sharp_Onscreenkeys.application
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\bin\Debug\C_Sharp_Onscreenkeys.exe
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\bin\Debug\C_Sharp_Onscreenkeys.pdb
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.csprojAssemblyReference.cache
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.form_Principal.resources
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.Form_Config.resources
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.Properties.Resources.resources
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.menuConfig.resources
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.csproj.GenerateResource.cache
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.csproj.CoreCompileInputs.cache
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.exe.manifest
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.application
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.exe
+D:\Arquivos\Graduaçao Eng. Biomedica\9º Periodo\Instrumentação Biomédica II\C_Sharp_Onscreenkeys\C_Sharp_Onscreenkeys\obj\Debug\C_Sharp_Onscreenkeys.pdb
